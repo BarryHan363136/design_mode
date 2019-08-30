@@ -9,6 +9,7 @@
     <modules>
         <module>design-mode-builder</module>
         <module>design-mode-adapter</module>
+        <module>design-mode-strategy</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
