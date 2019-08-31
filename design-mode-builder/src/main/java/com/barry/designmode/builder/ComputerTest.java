@@ -15,6 +15,15 @@ public class ComputerTest {
                 .monitor("爱国者显示器")
                 .build();
         System.out.println("=========>"+computer.toString());
+
+        Computer computer2 = new Computer
+                .Builder("4核", "16G", "1T")
+                .mouse("苹果鼠标")
+                .keyboard("苹果键盘")
+                .monitor("苹果显示器")
+                .build();
+        System.out.println("=========>"+computer2.toString());
+
     }
 
 }
