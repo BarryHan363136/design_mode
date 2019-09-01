@@ -1,7 +1,5 @@
 package com.barry.designmode.proxy;
 
-import com.barry.designmode.proxy.jingtai.ISinger;
-
 public class Singer implements ISinger {
 
     /**

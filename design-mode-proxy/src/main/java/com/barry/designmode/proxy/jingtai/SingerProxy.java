@@ -1,6 +1,6 @@
-package com.barry.designmode.proxy;
+package com.barry.designmode.proxy.jingtai;
 
-import com.barry.designmode.proxy.jingtai.ISinger;
+import com.barry.designmode.proxy.ISinger;
 
 public class SingerProxy implements ISinger {
 

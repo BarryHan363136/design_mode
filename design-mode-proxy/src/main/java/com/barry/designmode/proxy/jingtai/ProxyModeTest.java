@@ -1,7 +1,7 @@
 package com.barry.designmode.proxy.jingtai;
 
+import com.barry.designmode.proxy.ISinger;
 import com.barry.designmode.proxy.Singer;
-import com.barry.designmode.proxy.SingerProxy;
 
 public class ProxyModeTest {
 

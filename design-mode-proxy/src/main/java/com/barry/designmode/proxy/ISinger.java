@@ -1,4 +1,4 @@
-package com.barry.designmode.proxy.jingtai;
+package com.barry.designmode.proxy;
 
 public interface ISinger {
 
